@@ -1,0 +1,1 @@
+// App.jsx será pegado por el usuario desde el canvas
